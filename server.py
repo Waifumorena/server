@@ -5,7 +5,7 @@ import os
 # Dirección IP del servidor
 HOST = '149.56.67.133'
 # Puerto en el que se ejecutará el servidor
-PORT = 5000
+PORT = 3389
 
 # Lista de clientes conectados al servidor
 clientes = []
